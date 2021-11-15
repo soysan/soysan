@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=soysan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  -->
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=soysan&column=8&theme=gitdimme&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=soysan&column=8&theme=algolia&no-frame=true"/>
 </a>
 
 ---
