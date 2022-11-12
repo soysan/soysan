@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=soysan&column=8&theme=nord&no-frame=true"/>
+  <img width=800 src="https://github-readme-stats.vercel.app/api?username=soysan&column=8&theme=nord&no-frame=true"/>
 </a>
 
 ---
