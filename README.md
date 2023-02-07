@@ -1,7 +1,7 @@
 ## Hi there 🍻
 
 
-<p align="left">
+<p>
   <a href="https://github.com/soysan/soysan/">
     <img src="https://komarev.com/ghpvc/?username=soysan" alt="soylove2" />
   </a>
@@ -20,8 +20,3 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=soysan&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-![](https://raw.githubusercontent.com/soysan/soysan/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
-![](https://raw.githubusercontent.com/soysan/soysan/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/soysan/soysan/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
